@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.gvcgaesco.app",
+               "sha256_cert_fingerprints": ["3D:17:D0:F0:6D:FC:F3:70:D6:3A:01:65:AB:B5:D0:5C:51:E6:87:42:DF:90:DD:FF:04:E7:3D:AB:88:BA:D3:05"] }
+}]
